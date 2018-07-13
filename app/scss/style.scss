@@ -12,7 +12,7 @@ h1, h2 { font-family: 'Amsi Pro Ultra'/*font: bold 2em Amsi Pro Ultra*/; }
 h3 { font-family: 'Amsi Pro'/*font: bold 1.17em Amsi Pro*/; }
 
 .label {
-  font: italic 12px arial, sans-serif;
+  font: italic 0.75em arial, sans-serif;
   padding: 0 10px;
 }
 .splash {
@@ -39,6 +39,7 @@ nav {
 
   float: right;
 }
+
 nav a {
   color: black;
   text-decoration: none;
@@ -62,9 +63,11 @@ nav a {
 .single {
   padding: 20px;
 }
+
 .two {
   padding: 20px;
 }
+
 .two p {
   width: 47.5%;
   padding-right: 2.5%;
