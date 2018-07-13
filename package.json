@@ -1,0 +1,19 @@
+{
+  "name": "static-parcel",
+  "version": "1.0.0",
+  "description": "static boilerplate built with parcel",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jkl",
+  "license": "MIT",
+  "dependencies": {
+    "app": "^0.1.0",
+    "css": "^2.2.3",
+    "scss": "^0.2.4"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
